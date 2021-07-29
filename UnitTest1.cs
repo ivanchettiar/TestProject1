@@ -51,19 +51,19 @@ namespace TestProject1
             Assert.AreEqual(20100, actual);
         }
 
-        [Test]
-        public void calacamtTest()
-        {
-            float f = obj.calcamt(3, 4);
-            Assert.AreEqual(f, 12);
-        }
-        [Test]
-        public void checkAddTestPass()
-        {
-            m.Setup(x => x.calcamt(4, 5)).Returns(20);
-            bool b = obj.checkAdd(4, 5);
-                Assert.AreEqual(true, b);
-        }
+        //[Test]
+        //public void calacamtTest()
+        //{
+        //    float f = obj.calcamt(3, 4);
+        //    Assert.AreEqual(f, 12);
+        //}
+        //[Test]
+        //public void checkAddTestPass()
+        //{
+        //    m.Setup(x => x.calcamt(4, 5)).Returns(20);
+        //    bool b = obj.checkAdd(4, 5);
+        //        Assert.AreEqual(true, b);
+        //}
 
 
     }

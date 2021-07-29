@@ -105,3 +105,5 @@ D:\c#miniproject\Miniproject1\TestProject1\obj\Debug\net5.0\TestProject1.dll
 D:\c#miniproject\Miniproject1\TestProject1\obj\Debug\net5.0\ref\TestProject1.dll
 D:\c#miniproject\Miniproject1\TestProject1\obj\Debug\net5.0\TestProject1.pdb
 D:\c#miniproject\Miniproject1\TestProject1\obj\Debug\net5.0\TestProject1.genruntimeconfig.cache
+D:\c#miniproject\Miniproject1\TestProject1\bin\Debug\net5.0\Castle.Core.dll
+D:\c#miniproject\Miniproject1\TestProject1\bin\Debug\net5.0\Moq.dll
